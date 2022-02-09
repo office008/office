@@ -1,0 +1,23 @@
+{
+  "name": "office",
+  "version": "1.0.0",
+  "description": "Zombiz – Business Agency Responsive HTML5/CSS3 template -------------------------------------------------------- ZomBiz is an amazing html5 template for any corporate, finance or other business agencies. Our designers designed this with eye-catching backgrounds and fonts which will make your visitors love this eye-catchy user interface. This outstanding responsive template coded in bootstrap3 and CSS3 by our developer. This super responsive template offers fantastic animations, modern design with full customizability so you will get full control to change and update as you want.<br> <a href=\"https://www.themesine.com/downloads/zombiz-agency-html5-template/\" target=\"_blank\">Preview Link</a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewithkushagra/office.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codewithkushagra/office/issues"
+  },
+  "homepage": "https://github.com/codewithkushagra/office#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
